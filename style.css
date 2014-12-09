@@ -27,8 +27,8 @@ header a:hover {
     background-color: white;
 }
 header li {
-    display: inline-block;
- width: 32%;
+display: inline-block;
+ width: 22%;
 text-align: center;
 
         }
@@ -57,6 +57,7 @@ footer {
     bottom:0;
    background-color: #AFAFAF;
     text-align: center;
+    padding-top: 3px;
 }
 
 footer li {
@@ -66,16 +67,17 @@ footer li {
 }
 .experience 
 {
-  max-width: 650px;
+  max-width: 700px;
     margin:auto;
-    margin-top:50px;
-    padding:20px;
+    margin-top:20px;
+    margin-bottom: 40px;
+    padding:30px;
     background-color:#FFFFFF;
-    box-shadow: 0px 0px 13px #ccc;
+    box-shadow: 0px 0px 40px #ccc;
 }
 .accueil
 {
-      max-width:500px;
+    max-width:500px;
     margin:auto;
     margin-top:50px;
     padding:20px;
@@ -87,7 +89,7 @@ footer li {
 }
 
 .contact {
-          max-width:500px;
+    max-width:500px;
     margin:auto;
     margin-top:50px;
     padding:20px;
@@ -98,5 +100,8 @@ footer li {
     color:#AFAFAF;
 
 }
+.portfolio {
+    margin:50px 50px 50px 50px;
+    width: 500px;
+}
 
-    
